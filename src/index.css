@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Font stacks as CSS variables */
+:root {
+  --font-sans-en: Cairo, "SF Arabic", Tajawal, "IBM Plex Sans Arabic",
+                  "Noto Sans Arabic", "Noto Naskh Arabic",
+                  "Geeza Pro", "Tahoma", "Segoe UI", Arial, sans-serif;
+  --font-sans-ar: Cairo, "SF Arabic", Tajawal, "IBM Plex Sans Arabic",
+                  "Noto Sans Arabic", "Noto Naskh Arabic",
+                  "Geeza Pro", "Tahoma", "Segoe UI", Arial, sans-serif;
+}
+
+@layer base {
+  html {
+    @apply font-sans antialiased text-slate-900;
+    font-size: 16px;
+    font-family: var(--font-sans-en);
+  }
+  html[lang="ar"] {
+    font-family: var(--font-sans-ar);
+    font-size: 15px;
+  }
+}
+
+
+.text-start { text-align: start; }
+.text-end   { text-align: end; }
+
+
+/* src/index.css (add after your @tailwind directives) */
+:root {
+  /* brand */
+  --brand: #C58239;
+  --brand-50: #F9F2E6;
+  --brand-100: #F4E5C8;
+  --brand-200: #E9D6B0;
+  --brand-300: #E0C59A;
+  --brand-400: #CDAA81;
+  --brand-500: #C58239;
+  --brand-600: #A96C32;
+  --brand-700: #8B7057;
+  --brand-800: #704E38;
+  --brand-900: #55392A;
+
+  /* surface system */
+  --bg: #F9F2E6;          /* soft cream */
+  --card: #ffffff;
+  --muted: #F4E5C8;       /* cream highlight */
+  --border: #E9D6B0;      /* warm border */
+  --ring: #E0C59A;        /* soft ring */
+
+  /* text */
+  --text: #55392A;        /* primary brown */
+  --text-muted: #8B7057;  /* bronze */
+
+  /* states (desaturated) */
+  --ok: #16a34a;          /* green-600 */
+  --warn: #A96C32;        /* brand gold 600 */
+  --info: #2563eb;        /* blue-600 */
+  --danger: #dc2626;      /* red-600 */
+
+  /* pastel backgrounds for chips/icons */
+  --ok-bg: #ecfdf5;       /* emerald-50 */
+  --warn-bg: #fffbeb;     /* amber-50 */
+  --info-bg: #eff6ff;     /* blue-50 */
+  --danger-bg: #fef2f2;   /* red-50 */
+  --neutral-bg: #f8fafc;  /* slate-50 */
+}
+
+html[lang="ar"] {
+  /* keep your font adjustments */
+}

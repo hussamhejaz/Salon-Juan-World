@@ -1,0 +1,1131 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+
+  "brand": {
+    "name": "Salon Juan World",
+    "tag": "Women's beauty & styling",
+    "tagline": "Your beauty is our priority"
+  },
+
+  "nav": {
+    "home": "Home",
+    "sections": "Sections",
+    "book": "Book",
+    "prices": "Prices",
+    "offers": "Offers",
+    "homeServices": "Home Services",
+    "hours": "Hours",
+    "complaints": "Complaints",
+    "about": "About",
+    "contact": "Contact",
+    "reviews": "Reviews"
+  },
+
+  "cta": {
+    "bookNow": "Book Now"
+  },
+
+  "search": {
+    "services": "Search services"
+  },
+
+  "hero": {
+    "title": "Look and feel your best",
+    "subtitle": "Book trusted stylists, makeup artists, and spa services near you."
+  },
+
+  "home": {
+    "welcome": "Welcome to our salon",
+    "location": "Salon Juan World, Riyadh, Saudi Arabia / صالون جوان وورلد، الرياض، السعودية",
+    "locationUrl": "https://www.google.com/maps/place/%D8%B5%D8%A7%D9%84%D9%88%D9%86%20%D8%AC%D9%88%D8%A7%D9%86%20%D9%88%D9%88%D8%B1%D9%84%D8%AF/@24.8493918,46.7895642,17z/data=!3m1!4b1!4m6!3m5!1s0x3e2eff25d1a9c1e7:0x6c15372fe8e4bdc4!8m2!3d24.8493918!4d46.7895642!16s%2Fg%2F11ydxby5j8?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+    "buttons": {
+      "book": { "primary": "Book", "secondary": "احجز" },
+      "prices": { "primary": "Prices", "secondary": "قائمة الأسعار" },
+      "offers": { "primary": "Offers", "secondary": "العروض" },
+      "homeServices": { "primary": "Home Services", "secondary": "الخدمات المنزلية" },
+      "workingHours": { "primary": "Working hours", "secondary": "ساعات العمل" },
+      "complaints": { "primary": "Complaints", "secondary": "الشكاوى" }
+    }
+  },
+
+  "sections": {
+    "hair": "Hair",
+    "nails": "Nails",
+    "makeup": "Makeup",
+    "spa": "Spa"
+  },
+
+  "prices": {
+    "title": "Prices",
+    "note": "All prices include VAT.",
+    "searchPlaceholder": "Search services",
+    "sampleItem": "Sample service — 100 SAR",
+    "categories": {
+      "hair": "Haircut & Styling",
+      "nails": "Nail Services",
+      "hairTreatments": "Hair Treatments",
+      "body": "Body Care",
+      "dyeCare": "Dye & Color Care",
+      "facial": "Facial Treatments",
+      "makeup": "Makeup",
+      "consultation": "Consultation",
+      "kids": "Kids Services"
+    }
+  },
+
+  "book": {
+    "title": "Book an Appointment",
+    "subtitle": "Fill in your details and we'll confirm soon.",
+    "name": "Name",
+    "phone": "Phone",
+    "service": "Service",
+    "date": "Date",
+    "time": "Time",
+    "submit": "Book Now",
+    "linkedServiceUnavailable": "This service is not available right now.",
+    "success": "Your booking has been submitted!",
+    "successDesc": "We'll contact you shortly to confirm the details.",
+    "placeholder": {
+      "date": "dd/mm/yyyy",
+      "time": "--:--"
+    },
+    "chooseService": "Choose a service",
+    "loadingServices": "Loading services...",
+    "loadingLinkedService": "Loading the selected service...",
+    "chooseDateTime": "Choose a date & time",
+    "chooseEmployee": "Choose your stylist/employee (optional)",
+    "anyEmployee": "Any staff",
+    "loadingEmployees": "Loading team...",
+    "noEmployees": "No active team members available right now.",
+    "employeeFallback": "Team member",
+    "noEmployeesForService": "No team members available for this service right now. We’ll assign any available staff.",
+    "availableTimes": "Available times",
+    "chooseServiceFirst": "Select a service first to display available slots.",
+    "loadingSlots": "Updating available time slots...",
+    "closed": "The salon is closed on this day.",
+    "noSlots": "No slots are available for this day.",
+    "slotStrategyInfo": "Slot selection strategy: {strategy}",
+    "personalInfo": "Personal info & address",
+    "termsNote": "By clicking \"Confirm Booking\", you agree to our terms of service and privacy policy.",
+    "validationFailed": "Please complete the required fields before confirming the booking.",
+    "missingSalon": "Salon identifier is missing.",
+    "serviceMissing": "Select a service before continuing.",
+    "booking": "Booking...",
+    "confirm": "Confirm Booking",
+    "bookingFailed": "Failed to submit the booking.",
+    "bookingConflict": "The slot you picked is no longer available; please choose another time.",
+    "successDescHome": "Home service booking request received, we will confirm shortly.",
+    "statusPending": "Pending review",
+    "newBooking": "Book another service",
+    "confirmBooking": "Confirm Booking",
+    "staffAvailableTitle": "Staff available for this service",
+    "noSlotsForEmployee": "No slots are available for this staff member. Try a different team member or choose \"Any staff\".",
+    "clearEmployeeFilter": "Clear staff selection",
+    "stepService": "Service",
+    "stepEmployee": "Staff",
+    "stepDateTime": "Date & Time",
+    "stepInfo": "Details",
+    "stepConfirm": "Confirm",
+    "step1": "Service & Time",
+    "step2": "Personal Details",
+    "step3": "Confirmation",
+    "next": "Next",
+    "previous": "Previous",
+    "detail": {
+      "service": "Service:",
+      "datetime": "Date & time:",
+      "duration": "Duration:",
+      "status": "Status:",
+      "employee": "Stylist/Employee:"
+    }
+  },
+  "navigation": {
+    "next": "Next",
+    "previous": "Previous"
+  },
+
+  "form": {
+    "submitting": "Submitting…",
+    "err": {
+      "title": "Please fix the highlighted fields.",
+      "name": "Please enter your full name.",
+      "phone": "Enter a valid phone number (e.g. +9665XXXXXXXX).",
+      "service": "Select a service.",
+      "date": "Choose a date.",
+      "time": "Choose a time.",
+      "past": "Date cannot be in the past.",
+      "area": "Please enter your area or neighborhood.",
+      "address": "Please provide a detailed address."
+    }
+  },
+
+  "complaints": {
+    "title": "Complaints",
+    "name": "Name",
+    "mobile": "Mobile",
+    "details": "Details",
+    "submit": "Send Complaint",
+    "sent": "Your complaint has been submitted. We will contact you soon.",
+    "phonePlaceholder": "5XXXXXXXX"
+  },
+
+  "offers": {
+    "title": "Offers",
+    "subtitle": "Limited-time bundles at great prices.",
+    "searchPlaceholder": "Search offers…",
+    "all": "All",
+    "empty": "No matching offers right now.",
+    "endsIn": "Ends in {{d}}d {{h}}h {{m}}m",
+    "untilFull": "Offer expiry",
+    "items": {
+      "hairSpa": "Hair Spa Session",
+      "hairSpaDesc": "Deep cleanse + intensive mask + scalp massage.",
+      "manicure": "Manicure & Pedicure",
+      "manicureDesc": "Trim & smooth with classic polish.",
+      "makeup": "Event Makeup",
+      "makeupDesc": "Full look with lashes.",
+      "spa": "Body Spa Session",
+      "spaDesc": "Sauna + body scrub + relaxing massage."
+    }
+  },
+
+  "hs": {
+    "title": "Home Services",
+    "subtitle": "We come to you with full beauty & spa care.",
+    "area": "Area",
+    "areaNote": "A travel fee may apply depending on distance.",
+    "search": "Search",
+    "searchPlaceholder": "Search home services…",
+    "all": "All",
+    "note": "Prices include on-site service. Duration may vary by hair/skin type.",
+    "empty": "No matching services.",
+    "bookNow": "Book a home visit",
+    "booked": "Added — we'll contact you to confirm.",
+    "bookTitle": "Home Service Booking",
+    "bookSubtitle": "Choose the service, date, and address, and we’ll handle the rest.",
+    "areaLabel": "Area / Neighborhood",
+    "areaPlaceholder": "e.g. Al Olaya, Riyadh",
+    "addressLabel": "Detailed address",
+    "addressPlaceholder": "City, street, building name or number...",
+    "building": "Building / Villa number",
+    "buildingPlaceholder": "Optional",
+    "floor": "Floor / Level",
+    "floorPlaceholder": "Optional"
+  },
+
+  "hs.categories": {
+    "hair": "Hair",
+    "nails": "Nails",
+    "makeup": "Makeup",
+    "spa": "Spa",
+    "massage": "Massage",
+    "waxing": "Waxing",
+    "facial": "Facial Care",
+    "body": "Body Care",
+    "kids": "Kids",
+    "dyeCare": "Color care",
+    "consultation": "Consultation",
+    "premium": "Premium Services",
+    "star": "Premium Services",
+    "scissors": "Hair Services",
+    "hairServices": "Hair Services",
+    "nailCare": "Nail Care",
+    "spaTreatments": "Spa Treatments",
+    "facialCare": "Facial Care",
+    "premiumServices": "Premium Services",
+    "hairservices": "Hair Services",
+    "nailcare": "Nail Care",
+    "spatreatments": "Spa Treatments",
+    "facialcare": "Facial Care",
+    "premiumservices": "Premium Services"
+  },
+
+  "hs.items": {
+    "hairBlow": "At-home Blowout",
+    "hairBlowDesc": "Wash + dry & style.",
+    "hairColor": "At-home Hair Color",
+    "hairColorDesc": "Shade selection + aftercare.",
+    "manicure": "At-home Mani-Pedi",
+    "manicureDesc": "Clean, trim, hydrate & polish.",
+    "eventMU": "At-home Event Makeup",
+    "eventMUDesc": "Full look with lashes.",
+    "relaxSpa": "At-home Relax Spa",
+    "relaxSpaDesc": "Massage + body scrub."
+  },
+
+  "days": {
+    "sun": "Sun",
+    "mon": "Mon",
+    "tue": "Tue",
+    "wed": "Wed",
+    "thu": "Thu",
+    "fri": "Fri",
+    "sat": "Sat"
+  },
+
+  "time": {
+    "am": "AM",
+    "pm": "PM"
+  },
+
+  "hours": {
+    "title": "Working Hours",
+    "subtitle": "Hours may vary on holidays or peak seasons.",
+    "openNow": "Open now",
+    "closedNow": "Closed now",
+    "use12h": "12-hour format",
+    "closed": "Closed",
+    "openUntil": "Open until {{time}}",
+    "nextOpen": "Opens {{day}}: {{range}}",
+    "note": "Note: Hours can change on official holidays. Please book ahead to secure your slot."
+  },
+
+  "compliment": {
+    "title": "Rate / Thank you",
+    "subtitle": "We love hearing your positive experiences and ideas to improve.",
+    "rating": "Rating",
+    "ratingAria": "Five-star rating",
+    "name": "Name",
+    "phone": "Phone",
+    "phoneNote": "Used only for follow-up if needed.",
+    "message": "Your message",
+    "photo": "Photo (optional)",
+    "consent": "I agree my feedback may be used anonymously in reviews.",
+    "submit": "Send compliment",
+    "sending": "Sending…",
+    "sent": "Thank you! We've received your message."
+  },
+
+  "sectionsPage": {
+    "title": "Our Main Services",
+    "subtitle": "Choose what you need",
+    "view": "View details",
+    "loadingTitle": "Loading sections",
+    "loadingDesc": "Preparing the best categories for you",
+    "errorTitle": "Something went wrong",
+    "retry": "Try again",
+    "emptyTitle": "No sections yet",
+    "emptyDesc": "We will add them soon",
+    "items": {
+      "hair": {
+        "title": "Hair",
+        "desc": "Cut, styling, blowout, repair & filler treatments."
+      },
+      "nails": {
+        "title": "Nails",
+        "desc": "Extensions, gel polish, hands & feet care."
+      },
+      "makeup": {
+        "title": "Makeup",
+        "desc": "Event makeup, bridal glam, private beauty sessions."
+      },
+      "spa": {
+        "title": "Spa",
+        "desc": "Massage, skincare, relaxing premium treatments."
+      },
+      "kids": {
+        "title": "Kids Services",
+        "desc": "Gentle styling and simple care for little ones."
+      }
+    }
+  },
+
+  "about": {
+    "title": "About Us",
+    "subtitle": "A women's beauty salon focused on comfort, hygiene, quality products, and results you truly love.",
+    "storyTitle": "Our story",
+    "storyBody": "We started with one mission: make self-care feel easy, respectful, and luxurious. Our team is made of certified specialists chosen for both skill and attitude.",
+    "storyBody2": "We care about cleanliness, product quality, comfort, transparent pricing, and fast booking. The goal is simple: you leave happy, confident, glowing.",
+    "highlightsTitle": "Why choose us?",
+    "point1": "Easy booking (online / WhatsApp).",
+    "point2": "Experienced all-female team.",
+    "point3": "High-quality, sanitized products.",
+    "point4": "Home service available.",
+    "point5": "Privacy and respectful treatment.",
+    "statRating": "Avg. rating",
+    "statClients": "Happy clients",
+    "statYears": "Years exp.",
+    "closing": "We want you to leave relaxed, confident, and smiling. Thank you for trusting us."
+  },
+
+  "contact": {
+    "badge": "Stay in touch",
+    "title": "Contact Us",
+    "subtitle": "Ask about booking, pricing, offers, or anything else. We're here to help 👇",
+    "infoTitle": "Contact information",
+    "locationLabel": "Location",
+    "locationValue": "Salon Juan World, Riyadh, Saudi Arabia / صالون جوان وورلد، الرياض، السعودية",
+    "phoneLabel": "Phone / WhatsApp",
+    "phoneValue": "+966 538 216 056",
+    "whatsappCTA": "Chat on WhatsApp",
+    "hoursLabel": "Working Hours",
+    "hoursValue": "Daily 10 AM – 11 PM",
+    "mapLabel": "Map location",
+    "mapDescription": "Live view of our Riyadh location. Tap the link below to open it in Google Maps.",
+    "mapLinkCTA": "Open in Google Maps",
+    "socialHint": "Follow our latest updates and offers:",
+    "formTitle": "Send a Message",
+    "formSubtitle": "Ask us anything and we'll get back to you.",
+    "sentTitle": "Your message was sent 💖",
+    "sentMessage": "Thanks for reaching out! We'll reply soon.",
+    "sendAnother": "Send another message",
+    "errorMessage": "Unable to send the message right now. Please try again later.",
+    "name": "Name",
+    "namePlaceholder": "Enter your full name",
+    "phone": "Phone",
+    "phonePlaceholder": "e.g. +966 5XXXXXXXX",
+    "msg": "Your message / question",
+    "msgPlaceholder": "Tell us how we can help you",
+    "sending": "Sending…",
+    "submit": "Send",
+    "privacyNote": "Your data stays confidential and is only used to respond to your inquiry.",
+    "support": {
+      "title": "Fast support",
+      "desc": "Expect a reply within 24 hours"
+    },
+    "availability": {
+      "title": "Always available",
+      "desc": "We answer every day of the week"
+    },
+    "expertise": {
+      "title": "Specialist experts",
+      "desc": "Professional tips & free consultations"
+    }
+  },
+
+  "sidebar": {
+    "collapse": "Collapse sidebar",
+    "expand": "Expand sidebar",
+
+    "dashboard": "Dashboard",
+    "overview": "Overview",
+
+    "appointments": "Appointments",
+      "allAppointments": "All Appointments",
+    "newAppointment": "New Appointment",
+    "salonAppointments": "Salon Appointments",
+    "homeServiceAppointments": "Home Service Appointments",
+    "homeServiceBookings": "View Bookings",
+    "newHomeServiceBooking": "New Booking",
+
+    "services": "Services & Categories",
+    "serviceList": "All Services",
+    "newService": "Add Service",
+    "categories": "Categories",
+
+    "staff": "Staff",
+    "staffList": "Team Members",
+    "addStaff": "Add Staff",
+    "schedule": "Schedule / Shifts",
+
+    "pricingOffers": "Pricing & Offers",
+    "pricing": "Price List",
+    "offers": "Offers",
+
+    "reviews": "Reviews",
+    "allReviews": "All Reviews",
+    "featuredReviews": "Featured",
+
+    "settings": "Salon Settings",
+    "salonProfile": "Salon Profile",
+    "businessHours": "Business Hours",
+    "integration": "Integrations / WhatsApp",
+
+    "account": "Account",
+    "myProfile": "My Profile",
+    "notifications": "Notifications",
+    "languageToggle": "Change Language",
+    "signout": "Sign Out"
+  },
+
+  "footer": {
+    "rights": "All rights reserved."
+  },
+
+  "dashSections": {
+    "pageTitle": "Service Sections",
+    "pageSubtitle": "Group your services (Hair, Nails, Makeup, etc.)",
+
+    "pageHeader": {
+      "title": "Service Sections",
+      "desc": "Group your services (Hair, Nails, Makeup, etc.). These appear to customers as the main categories."
+    },
+
+    "cardCreate": {
+      "title": "Add New Section",
+      "subtitle": "Customers see these as main categories."
+    },
+
+    "form": {
+      "serviceCategory": "Service Category",
+      "addCategory": "Add Category",
+      "addNewCategory": "Add New Category",
+      "categoryName": "Category Name",
+      "categoryNamePlaceholder": "Enter category name...",
+      "categoryIcon": "Category Icon",
+      "cancel": "Cancel",
+      "icon": "Icon",
+      "subtitle": "Subtitle (optional)",
+      "sectionName": "Section Name *",
+      "sectionNamePlaceholder": "Hair",
+      "description": "Description (optional)",
+      "descriptionPlaceholder": "Styling, color, treatments...",
+      "features": "Features (one per line)",
+      "featuresPlaceholder": "Feature 1\nFeature 2\nFeature 3",
+      "featuresHint": "Enter each feature on a new line. Use bullet points (•) for better readability.",
+      "itemsCount": "{{count}} items",
+      "nameRequired": "Section name is required",
+      "basicInfo": "Basic Info",
+      "details": "Details",
+      "addBtn": "Add Section",
+      "saving": "Saving…",
+      "subtitlePlaceholder": "Brief tagline for this section",
+
+      "added": "Section added ✔",
+      "addedToastTitle": "Section added",
+      "addedToastDesc": "Your new section is now live.",
+      "errorGeneric": "Failed to create section",
+
+      "categories": {
+        "hair": "Hair Services",
+        "nails": "Nail Care",
+        "makeup": "Makeup",
+        "spa": "Spa Treatments",
+        "premium": "Premium Services",
+        "facial": "Facial Care",
+        "massage": "Massage",
+        "waxing": "Waxing"
+      }
+    },
+
+    "list": {
+      "title": "Existing Sections",
+      "count": "total sections {{count}}",
+      "loading": "Loading…",
+      "empty": "No sections yet. Add your first one above 👆",
+      "error": "Failed to load sections"
+    },
+
+    "table": {
+      "colSection": "Section",
+      "colDescription": "Description",
+      "colStatus": "Status",
+      "colCreated": "Created",
+      "colActions": "Actions"
+    },
+
+    "row": {
+      "status": {
+        "active": "Active",
+        "hidden": "Hidden",
+        "activeLabel": "Active (visible)",
+        "hiddenLabel": "Hidden"
+      },
+      "placeholderDesc": "Describe this section",
+      "edit": "Edit",
+      "delete": "Delete",
+      "deleting": "Deleting…",
+      "cancel": "Cancel",
+      "save": "Save",
+      "saving": "Saving…",
+      "confirmDelete": "Delete section \"{{name}}\"? This cannot be undone.",
+
+      "deletedToastTitle": "Deleted",
+      "deletedToastDesc": "The item has been successfully deleted",
+      "savedToastTitle": "Saved",
+      "savedToastDesc": "Changes applied successfully.",
+      "deleteError": "Delete failed",
+      "updateError": "Update failed",
+      "nameRequiredToast": "Please enter a section name."
+    }
+  },
+
+  "dashShell": {
+    "title": "Dashboard",
+    "subtitle": "Admin tools, staff, bookings, and more.",
+    "online": "Online"
+  },
+
+  "common": {
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "saving": "Saving...",
+    "update": "Update",
+    "create": "Create",
+    "edit": "Edit",
+    "delete": "Delete",
+    "currency": "SAR",
+    "serviceNA": "Service N/A",
+    "save": "Save Changes",
+    "loading": "Loading...",
+    "search": "Search",
+    "filter": "Filter",
+    "all": "All",
+    "active": "Active",
+    "inactive": "Inactive",
+    "add": "Add",
+    "confirm": "Confirm",
+    "close": "Close",
+    "yes": "Yes",
+    "no": "No",
+    "required": "Required",
+    "clear": "Clear",
+    "actions": "Actions",
+    "back": "Back to Bookings",
+    "creating": "Creating Booking...",
+    "createBooking": "Create Booking",
+    "minutes": "min"
+  },
+
+  "profile": {
+    "title": "My Profile",
+    "subtitle": "Manage your account settings and preferences",
+    "profileInfo": "Profile Information",
+    "changePassword": "Change Password",
+    "salonInfo": "Salon Information",
+    "ownerInfo": "Owner Information",
+    "salonName": "Salon Name",
+    "planType": "Plan Type",
+    "phone": "Phone",
+    "city": "City",
+    "email": "Email Address",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm New Password",
+    "passwordHint": "Password must be at least 6 characters long",
+    "updateProfile": "Update Profile",
+    "updating": "Updating...",
+    "changingPassword": "Changing Password...",
+    "passwordsNotMatch": "New passwords do not match",
+    "passwordTooShort": "Password must be at least 6 characters long",
+    "updateSuccess": "Profile updated successfully",
+    "passwordSuccess": "Password changed successfully"
+  },
+
+  "workingHours": {
+    "title": "Working Hours",
+    "subtitle": "Set your salon operating hours. Hours may change during holidays or peak seasons.",
+    "timezone": "Timezone",
+    "timezoneNote": "All times are displayed in your local timezone",
+    "openNow": "Open Now",
+    "closedNow": "Closed Now",
+    "weeklyHours": "Weekly Working Hours",
+    "closed": "Closed",
+    "saving": "Saving...",
+    "save": "Save Changes",
+    "saved": "Working hours saved successfully",
+    "note": "Note: Hours may vary during official holidays. Please book in advance to secure your appointment."
+  },
+  
+  "homeServices": {
+    "title": "Home Services",
+    "confirmDeleteTitle": "Delete Service",
+    "subtitle": "Manage your home services that customers can book",
+    "addService": "Add Service",
+    "editService": "Edit Service",
+    "addNewService": "Add New Service",
+    "serviceName": "Service Name",
+    "namePlaceholder": "e.g., Haircut at Home",
+    "category": "Category",
+    "selectCategory": "Select a category",
+    "price": "Price",
+    "duration": "Duration",
+    "minutes": "minutes",
+    "description": "Description",
+    "descriptionPlaceholder": "Describe the service...",
+    "active": "Active",
+    "inactive": "Inactive",
+    "servicesList": "Services",
+    "noServices": "No services yet",
+    "noServicesDesc": "Get started by creating your first home service.",
+    "addFirstService": "Add Your First Service",
+    "activate": "Activate",
+    "deactivate": "Deactivate",
+    "created": "Home service created successfully",
+    "updated": "Home service updated successfully",
+    "deleted": "Home service deleted successfully",
+    "confirmDelete": "Are you sure you want to delete this service?"
+  },
+
+  "offers": {
+    "title": "Offers & Discounts",
+    "subtitle": "Take advantage of our exclusive offers and get the best services at special prices",
+    "all": "All Offers",
+    "area": "Area",
+    "areaNote": "Choose your area to determine available services",
+    "search": "Search Offers",
+    "searchPlaceholder": "Search in offers...",
+    "booked": "Offer booked successfully! We will contact you soon.",
+    "terms": "Terms & Conditions",
+    "book": "Book Offer",
+    "featured": "Featured",
+    "remaining": "{{count}} remaining",
+    "validUntil": "Valid until",
+    "unavailable": "Not available for online booking",
+    "save": "Save {{amount}} SAR",
+    "discount": "{{percentage}}% off",
+    "discountAmount": "{{amount}} SAR off",
+    "categoryLabel": "Category",
+    "durationVaries": "Duration may vary",
+    "durationMinutes": "{{minutes}} min",
+    "durationHours": "{{hours}} hr",
+    "durationHoursMinutes": "{{hours}}h {{minutes}}m",
+    "stats": {
+      "available": "Available Offers",
+      "showing": "Showing Results",
+      "average": "Average Savings"
+    },
+    "sortLabel": "Sort by",
+    "sort": {
+      "newest": "Newest",
+      "discount": "Highest Discount",
+      "priceLow": "Price (Low to High)",
+      "priceHigh": "Price (High to Low)",
+      "ending": "Ending Soon"
+    },
+    "noOffers": "No offers available",
+    "noResults": "No offers match your search",
+    "noOffersDescription": "Check back soon – new offers are on the way.",
+    "noResultsDescription": "Try widening your search or resetting the filters.",
+    "showAll": "Show All Offers",
+    "help": {
+      "title": "Need help choosing?",
+      "description": "Our team is ready to help you choose the best offer that suits your needs",
+      "consult": "Contact us for consultation"
+    },
+    "loading": {
+      "title": "Loading offers",
+      "description": "Preparing to display the best offers and special discounts"
+    },
+    "error": {
+      "title": "Sorry, an error occurred",
+      "retry": "Try Again"
+    },
+    "booking": {
+      "promptName": "Enter your full name",
+      "promptPhone": "Enter your mobile number",
+      "promptDate": "Select booking date (YYYY-MM-DD)",
+      "promptTime": "Select booking time (HH:MM)",
+      "promptEmail": "Email (optional)",
+      "promptNotes": "Any notes? (optional)",
+      "requiredName": "Name is required",
+      "requiredPhone": "Phone number is required",
+      "noService": "Offer is not linked to a service",
+      "success": "Booking request received, we will confirm shortly.",
+      "failure": "Unable to book the offer right now. Please try again.",
+      "loading": "Booking..."
+    }
+  },
+
+  "errors": {
+    "titleRequired": "Offer title is required",
+    "startDateRequired": "Start date is required",
+    "endDateRequired": "End date is required",
+    "endDateAfterStart": "End date must be after start date",
+    "oneDiscountOnly": "You can only use discount percentage or discount amount",
+    "discountPercentageRange": "Discount percentage must be between 0 and 100",
+    "discountAmountNegative": "Discount amount cannot be negative"
+  },
+
+  "pricing": {
+    "pageHeader": {
+      "title": "Services & Pricing",
+      "desc": "Manage your salon services, set prices, and organize features"
+    },
+    "stats": {
+      "totalServices": "Total Services",
+      "totalSections": "Total Sections",
+      "activeServices": "Active Services", 
+      "avgPrice": "Avg. Price"
+    },
+    "actions": {
+      "addService": "Add New Service",
+      "edit": "Edit",
+      "delete": "Delete",
+      "save": "Save",
+      "cancel": "Cancel",
+      "filterBySection": "Filter by Section"
+    },
+    "form": {
+      "section": "Section",
+      "serviceName": "Service Name", 
+      "description": "Description",
+      "price": "Price",
+      "duration": "Duration (minutes)",
+      "features": "Features/Options",
+      "addFeature": "Add Feature",
+      "sectionRequired": "Section *",
+      "serviceNameRequired": "Service Name *",
+      "priceRequired": "Price *",
+      "selectSection": "Select a section",
+      "serviceNamePlaceholder": "e.g., Hair Cut, Manicure, Facial",
+      "descriptionPlaceholder": "Brief description of the service...",
+      "featurePlaceholder": "Feature description..."
+    },
+    "table": {
+      "allSections": "All Sections",
+      "noServices": "No Services Found",
+      "noServicesDesc": "Get started by creating your first service.",
+      "noServicesInSection": "No services found in this section.",
+      "unknownSection": "Unknown Section",
+      "duration": "Duration",
+      "min": "min"
+    },
+    "modal": {
+      "addService": "Add New Service",
+      "editService": "Edit Service", 
+      "creating": "Creating...",
+      "updating": "Updating...",
+      "createService": "Create Service",
+      "updateService": "Update Service"
+    },
+    "success": {
+      "created": "Service created successfully",
+      "updated": "Service updated successfully",
+      "deleted": "Service deleted successfully"
+    },
+    "errors": {
+      "fetchFailed": "Failed to load services",
+      "saveFailed": "Failed to save service",
+      "deleteFailed": "Failed to delete service", 
+      "missingFields": "Please fill in all required fields",
+      "deleting": "Deleting..."
+    }
+  },
+
+  "bookings": {
+    "status": {
+      "pending": "Pending Confirmation",
+      "confirmed": "Confirmed",
+      "completed": "Completed",
+      "cancelled": "Cancelled",
+      "noShow": "No Show"
+    },
+    "details": {
+      "title": "Booking Details",
+      "appointmentInfo": "Appointment Information",
+      "customerDetails": "Customer Details",
+      "additionalNotes": "Additional Notes",
+      "serviceType": "Service Type",
+      "paymentStatus": "Payment Status",
+      "totalAmount": "Total Amount",
+      "lastUpdated": "Last updated",
+      "date": "Date",
+      "time": "Time",
+      "service": "Service",
+      "duration": "Duration",
+      "customer": "Customer",
+      "phone": "Phone",
+      "email": "Email",
+       "status": "Status",
+       "loading": "Loading booking details..."
+    },
+    "actions": {
+      "cancelBooking": "Cancel Booking",
+      "markComplete": "Mark Complete",
+      "confirmBooking": "Confirm Booking",
+      "close": "Close"
+    },
+    "serviceTypes": {
+      "salonService": "Salon Service",
+      "homeVisit": "Home Visit"
+    },
+    "paymentStatus": {
+      "pending": "Pending",
+      "paid": "Paid",
+      "failed": "Failed"
+    },
+    "list": {
+      "loading": "Loading bookings..."
+    },
+    "edit": {
+      "title": "Edit Booking",
+      "success": "Booking updated successfully",
+      "error": "Failed to update booking"
+    },
+    "form": {
+      "customerName": "Customer Name",
+      "customerPhone": "Phone Number",
+      "customerEmail": "Email (Optional)",
+      "date": "Date",
+      "time": "Time",
+      "duration": "Duration (minutes)",
+      "price": "Price",
+      "status": "Status",
+      "notes": "Notes (Optional)",
+      "customerNamePlaceholder": "Enter customer name",
+      "phone": "Phone Number",
+      "phonePlaceholder": "Enter phone number",
+      "email": "Email",
+      "emailPlaceholder": "Enter email address",
+      "serviceType": "Service Type",
+      "salonService": "Salon Service",
+      "homeService": "Home Service",
+      "selectService": "Select Service",
+      "chooseService": "Choose a service...",
+      "bookingStatus": "Booking Status",
+      "customerNotes": "Customer Notes",
+      "notesPlaceholder": "Any special requests, allergies, or additional notes..."
+    },
+    "create": {
+      "title": "Create New Booking",
+      "subtitle": "Add a new appointment for your salon",
+      "bookingDetails": "Booking Details",
+      "customerInfo": "Customer Information",
+      "dateTime": "Date & Time",
+      "serviceDetails": "Service Details",
+      "additionalInfo": "Additional Information"
+    },
+    "errors": {
+      "required": "This field is required",
+      "selectService": "Please select a service",
+      "validPrice": "Please enter a valid price",
+      "fetchServices": "Failed to load services"
+    },
+    "loadingServices": "Loading services..."
+  },
+  
+  "homeServiceBookings": {
+    "title": "Home Service Bookings",
+    "subtitle": "Manage home service appointments and customer visits",
+    "newBooking": "New Home Service",
+    "service": "Service",
+    "area": "Area",
+    "travel": "travel",
+    "travelFee": "Travel Fee",
+    "travelFees": "Travel Fees",
+    "locationInfo": "Location Information",
+    "serviceInfo": "Service Information",
+    "specialRequirements": "Special Requirements",
+    "notesPlaceholder": "Any special notes from the customer...",
+    "requirementsPlaceholder": "Any special requirements for the home service...",
+    "areaFilter": "Area",
+    "searchPlaceholder": "Search by customer name, phone, or area...",
+    
+    "stats": {
+      "total": "Total Home Services",
+      "today": "Today's Home Services",
+      "upcoming": "Upcoming Home Services",
+      "revenue": "Total Revenue"
+    },
+    
+    "details": {
+      "title": "Home Service Booking Details",
+      "loading": "Loading booking details...",
+      "serviceType": "Service Type",
+      "homeVisit": "Home Visit Service"
+    },
+    
+    "edit": {
+      "title": "Edit Home Service Booking",
+      "subtitle": "Update home service appointment details"
+    },
+    
+    "delete": {
+      "title": "Delete Home Service Booking",
+      "message": "Are you sure you want to delete this home service booking? This action cannot be undone.",
+      "confirm": "Delete Home Service"
+    },
+    
+    "list": {
+      "loading": "Loading home service bookings..."
+    },
+    
+    "empty": {
+      "title": "No home service bookings found",
+      "subtitle": "Try adjusting your filters or create a new home service booking"
+    }
+  },
+
+  "bookings": {
+    "title": "Booking Management",
+    "subtitle": "Manage appointments and customer bookings",
+    "newBooking": "New Booking",
+    "searchPlaceholder": "Search by customer name or phone...",
+    
+    "form": {
+      "customerName": "Customer Name",
+      "customerPhone": "Phone Number",
+      "customerEmail": "Email",
+      "customerEmailOptional": "Email (Optional)",
+      "address": "Address",
+      "date": "Date",
+      "time": "Time",
+      "duration": "Duration (minutes)",
+      "price": "Price",
+      "status": "Status",
+      "notes": "Notes",
+      "notesOptional": "Notes (Optional)"
+    },
+    
+    "filters": {
+      "date": "Date",
+      "startDate": "Start Date",
+      "endDate": "End Date"
+    },
+    
+    "status": {
+      "all": "All Status",
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "completed": "Completed",
+      "cancelled": "Cancelled",
+      "noShow": "No Show"
+    },
+    
+    "serviceTypes": {
+      "salonService": "Salon Service",
+      "homeVisit": "Home Visit"
+    },
+    
+    "paymentStatus": {
+      "pending": "Pending",
+      "paid": "Paid",
+      "failed": "Failed"
+    },
+    
+    "table": {
+      "customer": "Customer",
+      "service": "Service",
+      "dateTime": "Date & Time",
+      "price": "Price",
+      "status": "Status",
+      "actions": "Actions"
+    },
+    
+    "actions": {
+      "viewDetails": "View Details",
+      "confirmBooking": "Confirm",
+      "markComplete": "Complete",
+      "cancelBooking": "Cancel",
+      "edit": "Edit",
+      "delete": "Delete",
+      "close": "Close"
+    },
+    
+    "details": {
+      "title": "Booking Details",
+      "loading": "Loading booking details...",
+      "appointmentInfo": "Appointment Information",
+      "customerDetails": "Customer Details",
+      "additionalNotes": "Additional Notes",
+      "status": "Status",
+      "totalAmount": "Total Amount",
+      "date": "Date",
+      "time": "Time",
+      "service": "Service",
+      "duration": "Duration",
+      "customer": "Customer",
+      "phone": "Phone",
+      "email": "Email",
+      "serviceType": "Service Type",
+      "paymentStatus": "Payment Status",
+      "lastUpdated": "Last Updated"
+    },
+    
+    "pricing": "Pricing",
+    "totalPrice": "Total Price",
+    
+    "delete": {
+      "title": "Delete Booking",
+      "message": "Are you sure you want to delete this booking? This action cannot be undone.",
+      "confirm": "Delete Booking"
+    },
+    
+    "edit": {
+      "title": "Edit Booking"
+    },
+    
+    "stats": {
+      "total": "Total Bookings",
+      "today": "Today's Bookings",
+      "upcoming": "Upcoming (7 days)",
+      "revenue": "Total Revenue"
+    },
+    
+    "pagination": {
+      "showing": "Showing",
+      "to": "to",
+      "of": "of",
+      "results": "results",
+      "previous": "Previous",
+      "next": "Next"
+    },
+    
+    "empty": {
+      "title": "No bookings found",
+      "subtitle": "Try adjusting your filters or create a new booking."
+    },
+    
+    "minutes": "min"
+  },
+
+  "services": {
+    "name": "Service Name",
+    "category": "Category",
+    "price": "Service Price",
+    "duration": "Duration"
+  },
+
+  "common": {
+    "loading": "Loading...",
+    "saving": "Saving...",
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "clear": "Clear",
+    "close": "Close",
+    "view": "View",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No",
+    "ok": "OK",
+    "error": "Error",
+    "success": "Success",
+    "warning": "Warning",
+    "info": "Information",
+    "search": "Search",
+    "filter": "Filter",
+    "all": "All",
+    "none": "None",
+    "minutes": "minutes",
+    "min": "min",
+    "serviceNA": "Service not available",
+    "viewGrid": "Grid view",
+    "viewList": "List view",
+    "lastUpdated": "Last updated",
+    "createdAt": "Created at",
+    "updatedAt": "Updated at"
+  },
+
+  "validation": {
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "invalidPhone": "Please enter a valid phone number",
+    "invalidDate": "Please enter a valid date",
+    "invalidTime": "Please enter a valid time"
+  },
+
+  "errors": {
+    "networkError": "Network error occurred",
+    "serverError": "Server error occurred",
+    "unauthorized": "Unauthorized access",
+    "notFound": "Resource not found",
+    "unknownError": "An unknown error occurred"
+  },
+    "toasts": {
+      "bookingCreatedTitle": "Booking Created",
+      "bookingCreated": "Home service booking for {{customer}} has been created successfully",
+      "bookingUpdatedTitle": "Booking Updated",
+      "bookingUpdated": "Home service booking for {{customer}} has been updated successfully",
+      "bookingDeletedTitle": "Booking Deleted",
+      "bookingDeleted": "Home service booking for {{customer}} has been deleted successfully",
+      "bookingStatusUpdatedTitle": "Status Updated",
+      "bookingStatusUpdated": "Booking status for {{customer}} has been changed to {{status}}",
+      "bookingErrorTitle": "Booking Error",
+      "bookingError": "An error occurred while processing the booking"
+    }
+}
